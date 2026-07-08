@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-GAME_THEORY_CORE_ENGINE_V2_1_KQV_FEED_GRAPH",
+  "name": "GAME THEORY ENGINE V2.1 KQV FEED GRAPH · GAM",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦GAME THEORY ENGINE V2.1 KQV FEED GRAPH · GAM:game-theory-core-engine-v2-1-kqv-feed-graph:97b77d⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "97b77dc0c2173eef80e9d6c1c2e0d4bfe1ac8261ebb35d19c91094a3067f01c3",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
